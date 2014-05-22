@@ -18,4 +18,7 @@
 		$('#B_Carnotaurus').tap(function (e) {
  	 $.mobile.navigate( "#Carnotaurus" );
 	});
+		$('#B_acerca_de').tap(function (e) {
+ 	 $.mobile.navigate( "#acerca" );
+	});
 });//ready
